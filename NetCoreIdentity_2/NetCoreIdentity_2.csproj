@@ -18,8 +18,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\Admins\" />
-    <Folder Include="Models\ViewModels\" />
+    <Folder Include="Models\Admins\AppRoles\ResponseModels\" />
+    <Folder Include="Models\Admins\AppRoles\RequestModels\" />
+    <Folder Include="Models\Admins\AppRoles\PageVms\" />
+    <Folder Include="Models\Admins\AppUsers\" />
   </ItemGroup>
 
 </Project>
